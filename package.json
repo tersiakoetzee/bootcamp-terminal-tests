@@ -11,7 +11,8 @@
     "mocha": "^6.2.0"
   },
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "mocha": ".node_modules/bin/mocha"
   },
   "keywords": [],
   "author": "",
