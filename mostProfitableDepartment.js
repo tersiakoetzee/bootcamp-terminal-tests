@@ -15,7 +15,7 @@ module.exports = function(salesData) {
   }
   return successfulDept;
 }
-
+///test
 function mostProfitableDay(data) {
   var thursdaySum = 0;
   var thursdaySumArray = [];
