@@ -12,7 +12,7 @@
   },
   "scripts": {
     "test": "mocha",
-    "mocha": ".node_modules/bin/mocha"
+    "mocha": "mocha"
   },
   "keywords": [],
   "author": "",
